@@ -9,4 +9,3 @@ title: Home
 ## _A science blog_
 
 
-
