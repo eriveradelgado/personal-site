@@ -34,4 +34,4 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Edgardo Rivera-Delgado](https://riveradelgado.com) 2019 | [Github](https://github.com/eriveradelgado) | [Twitter](https://twitter.com/eriveradelgado)"
+    footer = "&copy; [Edgardo Rivera-Delgado](https://riveradelgado.com) 2019 | [LinkedIn](https://www.linkedin.com/in/riveradelgado/) | [Github](https://github.com/eriveradelgado) | [Twitter](https://twitter.com/eriveradelgado)"
