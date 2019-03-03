@@ -4,9 +4,9 @@ author: Edgardo Rivera-Delgado
 ---
 
 
-I obtained my Ph.D. in Biomedical Engineering from Case Western Reserve University. There, I specialized in the area of affinity-based drug delivery. You can find an automated list of my peer reviewed publications in [google scholar](https://scholar.google.com/citations?user=OJCFVGAAAAAJ&hl=en). 
+I obtained my Ph.D. in Biomedical Engineering from Case Western Reserve University. I specialized in the area of affinity-based drug delivery. You can find a list of my peer reviewed publications in [google scholar](https://scholar.google.com/citations?user=OJCFVGAAAAAJ&hl=en). 
 
-My goal with this blog is to document my scientific ideas in a way that others may find useful.
+My goal with this website is to document and structure my scientific ideas and thoughts in a way that others may find valuable.
 
 ## Research Interests
 

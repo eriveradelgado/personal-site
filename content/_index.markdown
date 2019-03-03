@@ -6,5 +6,5 @@ title: Home
 
 #  R & D
 
-## _A console-to-clinic blog_
+## _A console-to-clinic website_
 
