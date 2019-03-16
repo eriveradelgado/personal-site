@@ -6,11 +6,11 @@ author: Edgardo Rivera-Delgado
 
 I obtained my Ph.D. in Biomedical Engineering from Case Western Reserve University. I specialized in the area of affinity-based drug delivery. You can find a list of my peer reviewed publications in [google scholar](https://scholar.google.com/citations?user=OJCFVGAAAAAJ&hl=en). 
 
-My goal with this website is to document and structure my scientific ideas and thoughts in a way that others may find valuable.
+My goal with this website is to document and structure my scientific ideas and thoughts.
 
 ## Research Interests
 
-My field of study is in the development strategies to deliver small molecules, proteins and cells. Currently it takes an enormous amount of time and money to develop new therapies with some estimates fluctuating between [1.5 to 2.5 Billion USD](https://www.sciencedirect.com/science/article/abs/pii/S0167629616000291). I am interested in learning and applying tools that reduce these costs and shorten the development time to bring new therapies to patients. Among my interest areas include:
+My field of study is in the development strategies to deliver small molecules, proteins and cells. Currently it takes an enormous amount of time and money to develop new therapies with some estimates fluctuating between [1.5 to 2.5 Billion USD](https://www.sciencedirect.com/science/article/abs/pii/S0167629616000291). I am interested in learning and applying tools that reduce these costs and shorten their development time. Among my interest areas include:
 
 1. Drug delivery PKPD
 2. High-throughput screening 
