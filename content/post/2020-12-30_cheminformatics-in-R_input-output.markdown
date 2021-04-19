@@ -3,7 +3,6 @@ title: "Cheminformatics tools in R"
 author: "Edgardo Rivera-Delgado"
 date: '2020-04-18'
 slug: chemistry-in-r
-draft: yes
 categories:
  - chemistry
  - library-exploration
