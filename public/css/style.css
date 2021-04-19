@@ -1,0 +1,132 @@
+body {
+  display:block;
+  max-width: 800px;
+  margin: auto;
+  padding: 0em;
+  line-height: 1.5em;
+  background-color: #F4F6F5;
+}
+body a:hover{background-color: #00FF9F} 
+.centericon {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -3.65em;
+  width: 50%;
+}
+.landingicon {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1.65em;
+  width: 50%;
+  height: 50%;
+}
+.face{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: cover;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  margin-top:-3.65em;
+ /* background-position: 100% 30%;*/
+}
+
+/* header and footer areas */
+a{color: black;}
+
+h1{line-height: 1.1em;}
+
+.menu { padding: 0.15em;}
+.menu li { display: inline-block;}
+.menu a{
+  text-decoration: none;
+  background: none;
+  padding: 20px;
+  border-radius: 0px;
+  
+}
+.menu a:hover{
+  background-color: #FF7070;
+  color: #F4F6F5;
+}
+.article-meta {
+  text-decoration: none;
+  background: none;
+  padding: 0px;
+  border-radius: 0px;
+}
+.article-meta span{
+  display:inline-block;
+  margin-bottom: 0em;
+  text-align: center;
+  
+}
+.article-meta h2{
+  display: inline-block;
+  font-size: 1em;
+  margin-top: 0em;
+}
+.menu, .article-meta, footer { text-align: center; }
+ .title { font-size: 1em; 
+   text-align: center;
+   
+ } 
+footer a { text-decoration: none; }
+footer a:hover{
+  background-color: #FF7070;
+  color: #F4F6F5;
+  
+}
+hr{
+  border-style: solid;
+  color: #D3D3D3;
+  background-color: #D3D3D3; 
+  height: 0; 
+  border-width: 0.038em;
+  width: 65%;
+}
+.hrtop{
+  border-style: solid;
+  color: #D3D3D3;
+  background-color: #D3D3D3; 
+  height: 0; 
+  border-width: 0.038em;
+  width: 15%;
+  margin-left: 21em;
+}
+
+
+
+/* code */
+pre {
+  overflow-x: auto;
+  border-radius: 1%;
+  border-left: 10px solid #eaeef3;
+  border-spacing: 15px;
+}
+code { background: #eaeef3; 
+}
+pre code { background: #eaeef3;
+}
+
+/* misc elements */
+img, iframe, video { max-width: 100%; }
+main { hyphens: auto; }
+blockquote {
+  background: #eaeef3;
+  border-left: 5px solid #eaeef3;
+  padding: 3px 1em 3px;
+}
+
+
+table {
+  margin: auto;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+}
+table thead th { border-bottom: 1px solid #ddd; }
+th, td { padding: 5px; }
+thead, tfoot, tr:nth-child(even) { background: #eee; }

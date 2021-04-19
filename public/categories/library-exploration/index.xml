@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>library-exploration on ERD&#39;s website</title>
+    <link>/categories/library-exploration/</link>
+    <description>Recent content in library-exploration on ERD&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/library-exploration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cheminformatics tools in R</title>
+      <link>/post/2020/12/30/methods-to-predict-the-degradation-of-peptide-sequences/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/12/30/methods-to-predict-the-degradation-of-peptide-sequences/</guid>
+      <description>What are the tools available in R for Cheminformatics? R has garnered attention as the preferred programming language for statistical computing and one of the the leading programming languages for machine learning. Within pharmaceutical research there is often the need to represent chemical structures. In this blogpost, I do a quick tour of the tools available for cheminformatics in R.
+The two most available projects for representing and manipulating chemical structures in R are rcdk and ChemmineR.</description>
+    </item>
+    
+  </channel>
+</rss>
