@@ -1,12 +1,12 @@
 ---
 title: "Cheminformatics tools in R"
 author: "Edgardo Rivera-Delgado"
-date: '2020-04-18'
+date: '2021-04-18'
 slug: chemistry-in-r
 categories:
  - chemistry
  - library-exploration
-tags: [test]
+tags: [rcdk, ChemmineR]
 ---
 
 
