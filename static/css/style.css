@@ -103,8 +103,8 @@ hr{
 /* code */
 pre {
   overflow-x: auto;
-  border-radius: 1%;
-  border-left: 10px solid #eaeef3;
+  border-radius: 1.2%;
+  border-left: 10px solid #5b6169;
   border-spacing: 15px;
 }
 code { background: #eaeef3; 
@@ -117,6 +117,7 @@ img, iframe, video { max-width: 100%; }
 main { hyphens: auto; }
 blockquote {
   background: #eaeef3;
+  border-radius: 1.2%;
   border-left: 5px solid #eaeef3;
   padding: 3px 1em 3px;
 }
