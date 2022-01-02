@@ -19,7 +19,7 @@ we'll explore how Python and R can be used together, as promised in the [last po
 examined how R can be used for input display and writing to file of two common
 chemical formats with packages that are native to R.
 
-This time I'll make use of `RDKit`library, a Python library that has been of great 
+This time I'll make use of the `RDKit` library, a Python library that has been of great 
 interest for me to explore for a while. The library `reticulate` will helps us 
 call Python libaries and use them within R without having to leave RStudio. 
 
@@ -71,7 +71,7 @@ Here's my attempt at writing Python straight from R using a matplotlib example.
 In order for the code chunk to run we start a new chunk as we would usually do 
 and embrace it in curly parenthesis with {python} instead of {r}. Python code 
 can then be written as it would normally be written in a jupyter notebook or 
-any other Python editor. For`matplotlib` the results will be shown inline as 
+any other Python editor. For `matplotlib` the results will be shown inline as 
 in any other chunk written in R.  
  
 ```{python}
@@ -298,7 +298,7 @@ chemical information.
 There are efforts to bring some of the functionality of RDKit into the R
 ecosystem, such as the nicely looking repository [tidychem](https://github.com/nanxstats/tidychem/). The author from tidychem outlines a vision for the integration of RDKit with R. If 
 you are interested in learning more about RDKit, good resources are the YouTube 
-videos by [Jan Jensen](https://youtu.be/ERvUf_lNopo) or the website 
+videos by [Jan Jensen](https://youtu.be/ERvUf_lNopo) and the website 
 [Is life worth living?](https://iwatobipen.wordpress.com/).  
 
 In future posts, I will discuss how we can source SMILES, SDF's and chemical related
